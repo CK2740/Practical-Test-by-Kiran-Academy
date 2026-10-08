@@ -1,0 +1,117 @@
+AI Awareness Quiz 
+
+Section A - AI Companies, Models & Tools
+
+1. Llama is developed by which company?
+Ans: Meta
+2. Gemini is developed by which company?
+Ans: Google
+3. Claude is developed by which company?
+Ans: Anthropic
+4. Grok is developed by which company?
+Ans: xAI
+5. Mistral models are developed by which AI company?
+Ans: Mistral AI
+6. Which company is associated with the GPT model family?
+Ans: OpenAI
+7. Sora is mainly used for generating what type of content?
+Ans: Video
+8. Veo is an AI video-generation model associated with which company?
+Ans: Google (DeepMind)
+9. Midjourney is mainly used for what purpose?
+Ans: AI image generation from text prompts
+10. What is GitHub Copilot mainly used for?
+Ans: AI code completion/assistant inside the editor
+
+Section B - Generative AI Concepts
+
+11. What does LLM stand for?
+Ans: Large Language Model
+12. What is Generative AI?
+Ans: AI that creates new content (text, images, audio, code)
+13. What is a prompt in AI?
+Ans: The input/instruction given to an AI
+14. What is a system prompt?
+Ans: Hidden instructions that set the AI's behavior and role
+15. What does multimodal AI mean?
+Ans: AI that handles multiple data types (text, image, audio, video)
+16. What is an AI hallucination?
+Ans: Confident but false or made-up output by AI
+17. What are tokens in an LLM?
+Ans: Small chunks of text (words/sub-words) the model processes
+18. What is an AI model's context window?
+Ans: Maximum amount of text (tokens) the model can consider at once
+19. What does inference mean in AI?
+Ans: Running a trained model to generate predictions/answers
+20. What is fine-tuning?
+Ans: Further training a pre-trained model on specific data
+
+Section C - AI for Developers & Applications
+
+21. What is an AI agent?
+Ans: AI system that plans and takes actions to achieve a goal
+22. What is the main difference between a chatbot and an AI agent?
+Ans: A chatbot only replies; an agent acts and uses tools autonomously
+23. What is tool calling or function calling?
+Ans: Model calls external tools/functions/APIs to perform tasks
+24. What does MCP stand for in modern AI development?
+Ans: Model Context Protocol
+25. What is an API key used for when accessing an AI service?
+Ans: Authenticates and identifies the user/app making API requests
+26. What is an API rate limit?
+Ans: Limit on number of API requests/tokens allowed in a time period
+27. What type of AI product is Cursor?
+Ans: AI-powered code editor (IDE)
+28. What is NotebookLM mainly designed to help users work with?
+Ans: Your own documents/sources (summaries, Q&A, notes)
+29. What is semantic search?
+Ans: Search by meaning/intent, not exact keywords
+30. Name any three tasks where developers can use Generative AI productively.
+Ans: Code generation, debugging, writing tests/documentation
+
+Section D - Image, Video, Speech, Models & Hardware
+
+31. What is speech-to-text AI?
+Ans: Converts spoken audio into text
+32. What is text-to-speech AI?
+Ans: Converts written text into spoken audio
+33. What does OCR allow a computer to extract from an image?
+Ans: Text (printed or handwritten)
+34. What is a vision model?
+Ans: AI model that understands/analyzes images
+35. What is meant by text-to-video AI?
+Ans: Generating video from a text description
+36. What is a diffusion model commonly used for?
+Ans: Image (and video) generation
+37. Why are GPUs widely used for AI workloads?
+Ans: They do many parallel calculations fast
+38. What is an NPU?
+Ans: Neural Processing Unit - chip specialized for AI tasks
+39. What does VRAM mainly store while running large AI models?
+Ans: Model weights and data (GPU memory)
+40. What is meant by running an AI model locally?
+Ans: Running the model on your own device, not in the cloud
+
+Section E - Advanced Awareness, Safety & Responsible AI
+
+41. What is an open-weight AI model?
+Ans: Model whose trained weights are publicly released for use
+42. What is model distillation?
+Ans: Training a small model to mimic a larger one
+43. What is LoRA commonly used for?
+Ans: Efficient fine-tuning with small added weights (Low-Rank Adaptation)
+44. What does MoE stand for in AI models?
+Ans: Mixture of Experts
+45. What is an AI benchmark?
+Ans: A standard test to measure/compare model performance
+46. What is a guardrail in an AI application?
+Ans: Safety rule/filter limiting harmful or unwanted AI behavior
+47. What is prompt injection?
+Ans: Malicious input that tricks AI into ignoring its instructions
+48. What does PII stand for?
+Ans: Personally Identifiable Information
+49. Why should confidential company data not automatically be pasted into public AI tools?
+Ans: Risk of data leak/misuse and privacy/policy violations
+50. If an AI-generated answer looks convincing, what should a user do before using it for an important
+decision?
+Ans: Verify it with reliable sources and human review
