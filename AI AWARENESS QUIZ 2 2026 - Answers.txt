@@ -1,0 +1,133 @@
+AI AWARENESS QUIZ 2026 - QUESTIONS & ANSWERS
+
+SECTION A - AI Companies & Latest Models
+Q1. ChatGPT is developed by which company?
+Ans: OpenAI
+Q2. Claude is developed by which AI company?
+Ans: Anthropic
+Q3. Gemini is developed by which company?
+Ans: Google (Google DeepMind)
+Q4. Llama models are developed by which company?
+Ans: Meta
+Q5. Grok is developed by which company?
+Ans: xAI
+Q6. Mistral AI is headquartered in which country?
+Ans: France
+Q7. What is the name of OpenAI's flagship GPT-6 frontier model?
+Ans: GPT-6 Astra
+Q8. Which OpenAI model is positioned as a lower-cost model with near-Astra intelligence for coding and professional work?
+Ans: GPT-6 Sol
+Q9. What is Anthropic's latest Haiku model called as of October 2026?
+Ans: Claude Haiku 5.5
+Q10. What is Google's latest flagship Gemini model called as of October 2026?
+Ans: Gemini 4 Argon
+
+SECTION B - Generative AI & LLM Concepts
+Q11. What does LLM stand for?
+Ans: Large Language Model
+Q12. What is Generative AI?
+Ans: AI that creates new content (text, images, audio, video, code) from patterns learned in data.
+Q13. What is a prompt in Generative AI?
+Ans: The input/instruction you give an AI model.
+Q14. What is a system prompt?
+Ans: Hidden instructions that set the AI's role, rules and behavior.
+Q15. What is an AI hallucination?
+Ans: When AI confidently gives false or made-up information.
+Q16. What is a token in an LLM?
+Ans: A small chunk of text (word/part of a word) that the model processes.
+Q17. What does context window mean?
+Ans: The max amount of text (tokens) a model can handle at once.
+Q18. What is inference in AI?
+Ans: Using a trained model to generate outputs/predictions.
+Q19. What is fine-tuning?
+Ans: Further training a pre-trained model on specific data for a specific task.
+Q20. What does multimodal AI mean?
+Ans: AI that understands/generates multiple types of data (text, image, audio, video).
+
+SECTION C - Agents, RAG & Modern AI Development
+Q21. What is an AI agent?
+Ans: An AI system that plans and takes actions with tools to achieve a goal.
+Q22. What is the main difference between a chatbot and an AI agent?
+Ans: A chatbot only replies; an agent acts autonomously to complete tasks.
+Q23. What does RAG stand for?
+Ans: Retrieval-Augmented Generation
+Q24. Why is RAG used with LLMs?
+Ans: To give the LLM up-to-date/private data and reduce hallucinations.
+Q25. What is an embedding?
+Ans: A numerical vector representing the meaning of text/images.
+Q26. What is a vector database used for in AI applications?
+Ans: Storing and searching embeddings by similarity.
+Q27. What does tool calling allow an AI model to do?
+Ans: Call external functions/APIs/tools (search, database, code, etc.).
+Q28. What does MCP stand for in modern AI application development?
+Ans: Model Context Protocol
+Q29. What is an API key used for?
+Ans: To authenticate and authorize access to an API/service.
+Q30. What is meant by an agentic workflow?
+Ans: A multi-step process where AI plans, uses tools, checks results and iterates.
+
+SECTION D - AI Image, Video, Audio & Famous Tools
+Q31. Midjourney is mainly famous for generating what type of content?
+Ans: AI-generated images/art.
+Q32. Sora is primarily associated with which type of AI generation?
+Ans: AI video generation (OpenAI's text-to-video).
+Q33. What is the name of OpenAI's current image-generation model family?
+Ans: GPT Image (gpt-image-2 / ChatGPT Images 2.0)
+Q34. What does text-to-image mean?
+Ans: Generating images from a text description.
+Q35. What does text-to-video mean?
+Ans: Generating video clips from a text description.
+Q36. What does TTS stand for?
+Ans: Text-to-Speech
+Q37. What does STT stand for?
+Ans: Speech-to-Text
+Q38. What does OCR do?
+Ans: Optical Character Recognition - converts text in images/scans into editable text.
+Q39. What is a vision-language model?
+Ans: A model that understands both images and text together.
+Q40. What is voice cloning in AI?
+Ans: Creating a synthetic copy of a person's voice using AI.
+
+SECTION E - Coding AI, Hardware & Practical Awareness
+Q41. GitHub Copilot is mainly used for what purpose?
+Ans: AI code suggestions, completion and chat inside the editor.
+Q42. Cursor is mainly used for what type of work?
+Ans: AI-powered code editing/software development.
+Q43. What is an AI coding assistant?
+Ans: A tool that helps write, explain, debug and review code.
+Q44. What hardware component is most commonly used to train large AI models?
+Ans: GPU
+Q45. What does GPU stand for?
+Ans: Graphics Processing Unit
+Q46. What does NPU stand for?
+Ans: Neural Processing Unit
+Q47. What is VRAM mainly used for during AI workloads?
+Ans: Holding model weights and data in fast GPU memory.
+Q48. What does running an AI model locally mean?
+Ans: Running the model on your own device/server instead of a cloud service.
+Q49. What is an open-weight AI model?
+Ans: A model whose trained weights are publicly downloadable for use/modification.
+Q50. What is model distillation?
+Ans: Training a smaller model to mimic a larger model.
+
+SECTION F - Latest AI Awareness & 2026 News
+Q51. Which OpenAI model family includes Astra, Sol and Luna?
+Ans: GPT-6
+Q52. Which OpenAI GPT-6 model is designed for the most demanding frontier work?
+Ans: GPT-6 Astra
+Q53. Which Claude 5.5 model is positioned for complex agentic coding and knowledge work?
+Ans: Claude Opus 5.5
+Q54. Which Claude 5.5 model is designed for fast, high-volume and cost-sensitive work?
+Ans: Claude Haiku 5.5
+Q55. What is Google's Gemini 4 flagship model called?
+Ans: Gemini 4 Argon
+Q56. What is the name of OpenAI's current model family for advanced image generation and editing?
+Ans: GPT Image (gpt-image-2 / ChatGPT Images 2.0)
+Q57. What is the name of OpenAI's current realtime voice model family?
+Ans: GPT-Realtime (GPT-Realtime-2)
+Q58. Which company develops the Claude Opus, Sonnet and Haiku model families?
+Ans: Anthropic
+Q59. What AI safety risk occurs when malicious instructions are hidden inside external content and try to control the model?
+Ans: Prompt injection
+Q60. Why should important medical, legal, financial or business information generated by AI be verified by a human?
+Ans: AI can be wrong or hallucinate, and humans are accountable for high-stakes decisions.
